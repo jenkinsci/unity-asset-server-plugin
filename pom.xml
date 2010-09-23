@@ -9,7 +9,7 @@
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
-	<url>http://wiki.hudson-ci.org/display/HUDSON/UnityRepositoryPlugin</url>
+	<url>http://wiki.hudson-ci.org/display/HUDSON/UnityAssetServer</url>
 
 	<groupId>${parent.groupId}</groupId>
 	<artifactId>unity-asset-server</artifactId>
