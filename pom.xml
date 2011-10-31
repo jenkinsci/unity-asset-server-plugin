@@ -34,7 +34,6 @@ THE SOFTWARE.
 
 	<url>http://wiki.hudson-ci.org/display/HUDSON/Unity+Asset+Server+Plugin</url>
 
-	<groupId>${parent.groupId}</groupId>
 	<artifactId>unity-asset-server</artifactId>
 	<version>1.1.2-SNAPSHOT</version>
 	<packaging>hpi</packaging>
